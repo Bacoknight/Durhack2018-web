@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExportEvent
+comment1.params=calendar
+comment1.target=ExportEvent(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ExportEvent\r\n
+comment2.params=eventName\ eventType\ eventLoc\ eventPlace\ color
+comment2.target=int\ sampleMethod(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ CalendarColor)
+numComments=3
